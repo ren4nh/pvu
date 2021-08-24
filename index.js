@@ -11,7 +11,7 @@ async function fetchWallet() {
     let options = {
       method: 'GET',
       headers: {
-        Authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwdWJsaWNBZGRyZXNzIjoiMHg1NTU0OTE5NmNmNmM2YjE5MzllZmRlOGM2Y2M2ZWYzNDYzZjE5ZTAyIiwibG9naW5UaW1lIjoxNjI5NzcyMjE2NDQ3LCJjcmVhdGVEYXRlIjoiMjAyMS0wOC0xNSAxNzo0Mjo1MSIsImlhdCI6MTYyOTc3MjIxNn0.fYF1MjoCK2cqt-cG6t-wCkmbQdkKpZjPCF6CdPf7Nkk'
+        Authorization: 'Bearer '
       }
     };
 
